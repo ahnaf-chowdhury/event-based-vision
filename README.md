@@ -1,4 +1,4 @@
-# msc-event-based-vision
+# event-based-vision
 
 This repository contains some python notebooks that were used during my MSc project. The files "pydvs_dataset.ipynb", "MVSEC_dataset.ipynb" and "IBM_gesture_analysis.ipynb" include the analyses on these three datasets including visualisation and the measurement of metrics.
 
